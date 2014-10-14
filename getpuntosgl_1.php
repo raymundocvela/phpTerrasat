@@ -80,7 +80,7 @@
                     mapTypeId: google.maps.MapTypeId.ROADMAP
                 };
                 var map = new google.maps.Map(document.getElementById("map_canvas"), settings)
-                var rutaLayer = new google.maps.KmlLayer('http://igconsultores.net/raymundo/'+rutaKml);
+                var rutaLayer = new google.maps.KmlLayer('http://terrasat.com.mx/android/'+rutaKml);
                 rutaLayer.setMap(map);
                 //window.open("https://maps.google.com/maps?q=http:%2F%2Figconsultores.net%2Fraymundo%2Ffiles%2F"+"1340900465.kml");
            }

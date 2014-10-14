@@ -25,7 +25,7 @@
             session_start();
             include('conectar.php');
             include('deletefile.php');
-            $file='/home/aiturbe/public_html/raymundo/files/ruta.kml';
+            $file='/home/terrasat/public_html/raymundocvela/ruta.kml';
             delete($file);
             //obtener Id institucion
             
