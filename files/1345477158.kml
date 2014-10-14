@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1"><Document><Style id="restaurantStyle"><IconStyle id="restaurantIcon"><Icon><href>://maps.google.com/mapfiles/kml/pal2/icon5.png</href></Icon></IconStyle></Style><Style id="barStyle"><IconStyle id="barIcon"><Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon27.png</href></Icon></IconStyle></Style><Placemark id="3862"><name>Institucion/Compania: </name><description>Usuario: JRCV
+Lat: 19.327326058410108
+Long: -99.07095202244818
+2012-08-19 16:02:59
+GPS_PROVIDER</description><styleUrl>#restaurantStyle</styleUrl><Point><coordinates>19.327326058410108,-99.07095202244818</coordinates></Point></Placemark><Placemark id="3863"><name>Institucion/Compania: </name><description>Usuario: JRCV
+Lat: 19.327326058410108
+Long: -99.07095202244818
+2012-08-19 16:03:05
+GPS_PROVIDER</description><styleUrl>#restaurantStyle</styleUrl><Point><coordinates>19.327326058410108,-99.07095202244818</coordinates></Point></Placemark><Placemark id="3864"><name>Institucion/Compania: </name><description>Usuario: JRCV
+Lat: 19.327326058410108
+Long: -99.07095202244818
+2012-08-19 16:03:06
+GPS_PROVIDER</description><styleUrl>#restaurantStyle</styleUrl><Point><coordinates>19.327326058410108,-99.07095202244818</coordinates></Point></Placemark><Placemark id="3865"><name>Institucion/Compania: </name><description>Usuario: JRCV
+Lat: 19.34792
+Long: -99.07768
+2012-08-19 16:03:20
+GPS_PROVIDER</description><styleUrl>#restaurantStyle</styleUrl><Point><coordinates>19.34792,-99.07768</coordinates></Point></Placemark><Placemark id="3866"><name>Institucion/Compania: </name><description>Usuario: JRCV
+Lat: 19.346838709898293
+Long: -99.07741983421147
+2012-08-19 16:04:22
+GPS_PROVIDER</description><styleUrl>#restaurantStyle</styleUrl><Point><coordinates>19.346838709898293,-99.07741983421147</coordinates></Point></Placemark><Placemark id="3867"><name>Institucion/Compania: </name><description>Usuario: JRCV
+Lat: 19.346838709898293
+Long: -99.07741983421147
+2012-08-19 16:04:24
+GPS_PROVIDER</description><styleUrl>#restaurantStyle</styleUrl><Point><coordinates>19.346838709898293,-99.07741983421147</coordinates></Point></Placemark><Placemark id="3868"><name>Institucion/Compania: </name><description>Usuario: JRCV
+Lat: 19.34684
+Long: -99.07742
+2012-08-19 16:04:25
+GPS_PROVIDER</description><styleUrl>#restaurantStyle</styleUrl><Point><coordinates>19.34684,-99.07742</coordinates></Point></Placemark><Placemark id="3869"><name>Institucion/Compania: </name><description>Usuario: JRCV
+Lat: 19.34684
+Long: -99.07742
+2012-08-19 16:04:27
+GPS_PROVIDER</description><styleUrl>#restaurantStyle</styleUrl><Point><coordinates>19.34684,-99.07742</coordinates></Point></Placemark><Placemark id="3870"><name>Institucion/Compania: </name><description>Usuario: JRCV
+Lat: 19.32774
+Long: -99.06982
+2012-08-19 18:09:58
+GPS_PROVIDER</description><styleUrl>#restaurantStyle</styleUrl><Point><coordinates>19.32774,-99.06982</coordinates></Point></Placemark><Placemark id="3871"><name>Institucion/Compania: </name><description>Usuario: JRCV
+Lat: 19.30939
+Long: -99.08378
+2012-08-19 18:15:20
+GPS_PROVIDER</description><styleUrl>#restaurantStyle</styleUrl><Point><coordinates>19.30939,-99.08378</coordinates></Point></Placemark><Placemark id="3872"><name>Institucion/Compania: </name><description>Usuario: JRCV
+Lat: 19.29507
+Long: -99.10226
+2012-08-19 18:18:08
+GPS_PROVIDER</description><styleUrl>#restaurantStyle</styleUrl><Point><coordinates>19.29507,-99.10226</coordinates></Point></Placemark><Placemark id="3873"><name>Institucion/Compania: </name><description>Usuario: JRCV
+Lat: 19.28563
+Long: -99.12398
+2012-08-19 18:20:47
+GPS_PROVIDER</description><styleUrl>#restaurantStyle</styleUrl><Point><coordinates>19.28563,-99.12398</coordinates></Point></Placemark><Placemark id="3874"><name>Institucion/Compania: </name><description>Usuario: JRCV
+Lat: 19.28571
+Long: -99.14776
+2012-08-19 18:23:02
+GPS_PROVIDER</description><styleUrl>#restaurantStyle</styleUrl><Point><coordinates>19.28571,-99.14776</coordinates></Point></Placemark></Document></kml>

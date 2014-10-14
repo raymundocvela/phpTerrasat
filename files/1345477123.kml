@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1"><Document><Style id="restaurantStyle"><IconStyle id="restaurantIcon"><Icon><href>://maps.google.com/mapfiles/kml/pal2/icon5.png</href></Icon></IconStyle></Style><Style id="barStyle"><IconStyle id="barIcon"><Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon27.png</href></Icon></IconStyle></Style></Document></kml>

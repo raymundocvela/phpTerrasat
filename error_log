@@ -1,0 +1,22 @@
+[18-Jun-2012 19:05:10] PHP Warning:  unlink(/home/aiturbe/public_html/raymundo/files/ruta.kml) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/aiturbe/public_html/raymundo/deletefile.php on line 3
+[21-Jun-2012 22:52:52] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/aiturbe/public_html/raymundo/getpuntosgl_1.php on line 141
+[22-Jun-2012 00:20:19] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/aiturbe/public_html/raymundo/getpuntosgl_1.php on line 141
+[22-Jun-2012 00:27:52] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/aiturbe/public_html/raymundo/getpuntosgl_1.php on line 141
+[22-Jun-2012 00:28:43] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/aiturbe/public_html/raymundo/getpuntosgl_1.php on line 141
+[22-Jun-2012 17:25:35] PHP Warning:  mktime() expects parameter 5 to be long, array given in /home/aiturbe/public_html/raymundo/getpuntosgl_1.php on line 143
+[23-Jun-2012 23:49:40] PHP Parse error:  syntax error, unexpected T_STRING in /home/aiturbe/public_html/raymundo/v3tool_restricciones.php on line 2038
+[23-Jun-2012 23:55:40] PHP Parse error:  syntax error, unexpected T_STRING in /home/aiturbe/public_html/raymundo/v3tool_restricciones.php on line 2038
+[23-Jun-2012 23:55:41] PHP Parse error:  syntax error, unexpected T_STRING in /home/aiturbe/public_html/raymundo/v3tool_restricciones.php on line 2038
+[26-Jun-2012 16:56:21] PHP Parse error:  syntax error, unexpected T_SL in /home/aiturbe/public_html/raymundo/getpuntosgl_1.php on line 148
+[26-Jun-2012 16:56:23] PHP Parse error:  syntax error, unexpected T_SL in /home/aiturbe/public_html/raymundo/getpuntosgl_1.php on line 148
+[27-Jun-2012 19:57:18] PHP Parse error:  syntax error, unexpected T_SL in /home/aiturbe/public_html/raymundo/getpuntosgl_1.php on line 148
+[27-Jun-2012 19:57:37] PHP Parse error:  syntax error, unexpected T_SL in /home/aiturbe/public_html/raymundo/getpuntosgl_1.php on line 148
+[27-Jun-2012 19:57:47] PHP Parse error:  syntax error, unexpected T_SL in /home/aiturbe/public_html/raymundo/getpuntosgl_1.php on line 148
+[27-Jun-2012 20:02:41] PHP Parse error:  syntax error, unexpected T_SL in /home/aiturbe/public_html/raymundo/getpuntosgl_1.php on line 148
+[27-Jun-2012 20:02:42] PHP Parse error:  syntax error, unexpected T_SL in /home/aiturbe/public_html/raymundo/getpuntosgl_1.php on line 148
+[27-Jun-2012 20:02:43] PHP Parse error:  syntax error, unexpected T_SL in /home/aiturbe/public_html/raymundo/getpuntosgl_1.php on line 148
+[27-Jun-2012 20:02:43] PHP Parse error:  syntax error, unexpected T_SL in /home/aiturbe/public_html/raymundo/getpuntosgl_1.php on line 148
+[27-Jun-2012 20:02:43] PHP Parse error:  syntax error, unexpected T_SL in /home/aiturbe/public_html/raymundo/getpuntosgl_1.php on line 148
+[27-Jun-2012 20:02:43] PHP Parse error:  syntax error, unexpected T_SL in /home/aiturbe/public_html/raymundo/getpuntosgl_1.php on line 148
+[27-Jun-2012 20:02:43] PHP Parse error:  syntax error, unexpected T_SL in /home/aiturbe/public_html/raymundo/getpuntosgl_1.php on line 148
+[03-Jul-2012 22:00:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/aiturbe/public_html/raymundo/getpuntosgl_1.php on line 138

@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    height:100%; /*style="height:100%" es para poder ocupar el porcentaje en el div mapa porque si no se pone el div q se genera es de altura o height 0*/
+    background:url(../image/FondoDegradado.jpg);
+    background-repeat:repeat-x;
+    background-color:#09F;
+    /*margin:;/* no dejara espacion entre el DIV y el BODY*/
+    font-family:Georgia, "Times New Roman", Times, serif/*Indicamos la familia de letra que usara en todo nuestro sitio ARIAL Y HELVETICA SIEMPRE ESTARAN*/;
+    text-align:center; /******Este debe estar para que se pueda centrar el contenedor principal*/
+}
+
+.encabezado { /*nombre de nuestra clase. La diferencia entre Clase(Se repiten) y ID(Son unicos):*/
+    width:100%; /*ancho. LO QUERIAMOS DE 800 PERO AGREGAMOS 5 DE PADDING ASÍ QUE SE LOS RESTAMOS*/
+    height:10%;/*altura.  LO QUERIAMOS DE 150 PERO AGREGAMOS 5 DE PADDING ASÍ QUE SE LOS RESTAMOS*/
+    background-color:#FFF;
+    color:#F00; /*Color del Texto*/
+/*padding-left:5px;/*para que el texto del DIV no este pegado a los bordes, ESTA VALOR SE SUMA AL ANCHO DEL DIV POR LO CUAL SE TIENES QUE RESTAR A ESTAS PROPIEDADES*/
+/*padding-top:5px;
+/*Se puede ahorrar codigo poniendo padding:0px 10px 5px   TOP, LEFT, RIGTH*/
+
+/*MARGIN es al exterior del DIV, PADDING es interior*/
+/*margin:30px;*/
+}
+
+
+.contenedor{
+    position:relative;
+    width:100%;
+    height:100%; /*******Este debe estar para que se pueda centrar el contenedor principal*/
+    margin:auto; /*******Este debe estar para que se pueda centrar el contenedor principal*/
+}
+
+h1{
+    color:#00F;
+    font-size:14px;
+    font-family:Georgia, "Times New Roman", Times, serif;
+}
+
+.contenido h2, .contenido h3{
+    color:#F0C;
+}
+
+
+.mapa{
+    width:100%;
+    height:90%;
+    float:left;
+    background-color:#F00;
+}
+
